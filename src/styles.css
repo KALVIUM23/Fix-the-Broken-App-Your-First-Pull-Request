@@ -309,7 +309,7 @@ body {
   border-radius: 18px;
   position: relative;
   background: #ffffff;
-  overflow: hidden;
+  
 }
 
 .icon-box {
@@ -509,3 +509,4 @@ body {
   background: #facc15;
   border: 2px solid #333;
 }
+
